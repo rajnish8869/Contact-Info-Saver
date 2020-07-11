@@ -106,7 +106,7 @@ const Register = props => {
         </div>
       )}
       <h1>
-        Account <span className="text-primary">Register</span>
+        Account Register
       </h1>
       <form onSubmit={onSubmit}>
         {Object.keys(user).map(elem => (

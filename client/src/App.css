@@ -112,7 +112,7 @@ img {
   padding: 1rem;
   margin: 1.2rem 0;
   box-shadow: 10px 10px 30px rgba(103,82,148,.5);
-  background: linear-gradient(to bottom, #65D450, #AB88E9 230%);
+  background: linear-gradient(180deg,#161c1d,#b6abca 120%);
   border-radius: 10px;
 }
 
@@ -381,7 +381,7 @@ textarea {
   margin: 20px auto 0 auto;
   overflow: hidden;
   padding: 4rem 6rem;
-  background: linear-gradient(to bottom, #65D450, #AB88E9 120%);
+  background: linear-gradient(180deg,#161c1d,#b6abca 120%);
   box-shadow: 10px 10px 30px rgba(103,82,148,.5);
   border-radius: 10px;
   position: relative;
@@ -416,7 +416,7 @@ table th {
 
 /* Navbar */
 .navbar {
-  background: linear-gradient(90deg, #65D450, #AB88E9 120%);
+  background: linear-gradient(90deg,#000000,#730f68 120%);
   display: flex;
   justify-content: space-between;
   align-items: center;
